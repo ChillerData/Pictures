@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="raindrop.svg"
+   inkscape:version="1.1-dev (e8563be5de, 2020-12-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9b9b9b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="119.95561"
+     inkscape:cy="303.2983"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2410"
+     inkscape:window-height="1029"
+     inkscape:window-x="859"
+     inkscape:window-y="514"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#3232ff;stroke:none;stroke-width:10.3621px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 246.72039,81.900964 c 0,0 -248.016777,356.871246 -6.59577,359.552236 241.42101,2.6811 6.59577,-359.552236 6.59577,-359.552236 z"
+       id="path69"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path3160"
+       style="fill:#3c3cff;fill-rule:evenodd;stroke-width:1.00157"
+       d="m 223.34952,273.46188 c -5.13852,42.32013 -33.40189,87.44595 -52.99195,87.44595 -19.59006,1e-5 -15.9683,-51.85542 -0.15094,-95.986 14.38385,-40.13107 23.12108,-69.36148 42.71114,-69.36147 19.59006,0 15.87982,33.03202 10.43175,77.90152 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="path69-3"
+       style="fill:#000000;fill-opacity:0.0680329;stroke:none;stroke-width:10.3621px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.66602 343.125 C 132.33084 398.32317 157.69113 440.53769 240.125 441.45312 C 284.57935 441.94681 312.87028 430.05786 329.46875 410.3457 A 195.48985 210.17526 0 0 1 282.9082 416.40234 A 195.48985 210.17526 0 0 1 134.66602 343.125 z " />
+  </g>
+</svg>
